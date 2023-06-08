@@ -1,0 +1,26 @@
+.job_heading h1 {
+    color: #7F00FF;
+    text-shadow: 0px 0px 5px #FFA500;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: bold;
+    letter-spacing: .15em;
+    text-align: center;  
+  }
+  
+  .add-to-table-btn {
+    background-color: #FFA500;
+    color: black;
+    width: 300px;
+    padding: 8px;
+    border: black;
+    border-radius: 5px;
+    text-align: center;
+    font-family: sans-serif;
+    font-style: bold;
+    letter-spacing: .15em;
+  }
+  
+  .add-to-table-btn:hover {
+    background-color: #7F00FF;
+  }
